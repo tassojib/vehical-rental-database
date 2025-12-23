@@ -11,6 +11,13 @@ The main purpose of this project is to assess your understanding of:
 
 ---
 
+## 🛠️ Technologies Used
+
+- **Database Engine:** PostgreSQL  
+- **Query Language:** SQL (PostgreSQL)  
+- **Tools:** Beekeeper Studio  
+- **ERD Diagram Tool:** DrawSQL
+
 ## Part 1: Database Design (ERD)
 
 The system consists of three main tables:
