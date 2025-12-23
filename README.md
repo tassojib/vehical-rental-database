@@ -1,6 +1,6 @@
 # Vehicle Rental Database
 
-## Overview
+## 📌 Overview
 
 This project implements a simplified Vehicle Rental System that manages users, vehicles, and bookings.
 The main purpose of this project is to assess your understanding of:
@@ -18,7 +18,7 @@ The main purpose of this project is to assess your understanding of:
 - **Tools:** Beekeeper Studio  
 - **ERD Diagram Tool:** DrawSQL
 
-## Part 1: Database Design (ERD)
+## 📂 Part 1: Database Design (ERD)
 
 The system consists of three main tables:
 
@@ -48,7 +48,7 @@ Primary keys and foreign keys are included in the tables to maintain referential
 
 ---
 
-## Part 2: SQL Queries
+## 🔍 Part 2: SQL Queries
 
 Below are the POSTGRESQL queries based on the designed schema along with expected results.
 
